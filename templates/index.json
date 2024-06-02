@@ -53,7 +53,7 @@
         "text_RwJWXG": {
           "type": "text",
           "settings": {
-            "text": "<p>A One-Stop Online Shop For Sports Lover<\/p>"
+            "text": "<p>{{ shop.brand.short_description }}<\/p>"
           }
         }
       },
