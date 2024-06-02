@@ -1,1 +1,232 @@
-{"sections":{"image_banner":{"type":"image-banner","blocks":{"heading":{"type":"heading","settings":{"heading":"Get The Best Sports Item","heading_size":"h1"}},"button":{"type":"buttons","settings":{"button_label_1":"Shop all","button_link_1":"shopify:\/\/collections\/all","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading","button"],"settings":{"image":"shopify:\/\/shop_images\/istockphoto-905105146-612x612.jpg","image_overlay_opacity":10,"image_height":"medium","desktop_content_position":"bottom-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"scheme-3","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"featured_collection":{"type":"featured-collection","settings":{"title":"Top Selling Products","heading_size":"h1","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":3,"columns_desktop":3,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"scheme-1","image_ratio":"portrait","image_shape":"round","show_secondary_image":true,"show_vendor":false,"show_rating":false,"quick_add":"none","columns_mobile":"2","swipe_on_mobile":false,"padding_top":44,"padding_bottom":36}},"collage_3xJPTR":{"type":"collage","blocks":{"collection_DQ8aQE":{"type":"collection","settings":{"collection":"personal-fitness"}},"image_hPNFmw":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/weight-860625_1280.jpg"}},"product_myBzBa":{"type":"product","settings":{"product":"padel-racquet","second_image":false}}},"block_order":["collection_DQ8aQE","image_hPNFmw","product_myBzBa"],"settings":{"heading":"Catagory","heading_size":"h1","desktop_layout":"left","mobile_layout":"column","card_styles":"product-card-wrapper","color_scheme":"","padding_top":36,"padding_bottom":36}},"video_WCYQqJ":{"type":"video","settings":{"heading":"Video","heading_size":"h1","enable_video_looping":false,"video_url":"https:\/\/www.youtube.com\/watch?v=PGZiixvXK4g&pp=ygUVc3BvcnRzIGVxaXBtZW50IHZpZGVv","cover_image":"shopify:\/\/shop_images\/arm-back-muscles.jpg","description":"","full_width":false,"color_scheme":"","padding_top":36,"padding_bottom":36}},"multicolumn_di6kGU":{"type":"multicolumn","blocks":{"column_TmbbJT":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/fast-delivery_9561692.png","title":"<strong>Fast Delivery<\/strong>","text":"<p>We Deliver in 24 hours<\/p>","link_label":"","link":""}},"column_PBWw9B":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/59556-O9TD0M-65.jpg","title":"<strong>Authentic Product<\/strong>","text":"<p>We deliver the best original products<\/p>","link_label":"","link":""}},"column_Cg8ABr":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/customer-support_2951105.png","title":"<strong>24x7 live support<\/strong>","text":"<p>We are available to assist you. Just click the icon to live chat<\/p>","link_label":"Chat Now","link":""}}},"block_order":["column_TmbbJT","column_PBWw9B","column_Cg8ABr"],"settings":{"title":"<strong>Why You should choose Us<\/strong>","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"Button label","button_link":"","color_scheme":"","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["image_banner","featured_collection","collage_3xJPTR","video_WCYQqJ","multicolumn_di6kGU"]}
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get The Best Sports Item",
+            "heading_size": "h1"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/istockphoto-905105146-612x612.jpg",
+        "image_overlay_opacity": 10,
+        "image_height": "medium",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "rich_text_UFB3Ci": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CNwRXj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Best Sports Goods For Athlete",
+            "heading_size": "h1"
+          }
+        },
+        "text_RwJWXG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A One-Stop Online Shop For Sports Lover<\/p>"
+          }
+        },
+        "button_C79yhi": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CNwRXj",
+        "text_RwJWXG",
+        "button_C79yhi"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Top Selling Products",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 3,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "round",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "collage_3xJPTR": {
+      "type": "collage",
+      "blocks": {
+        "collection_DQ8aQE": {
+          "type": "collection",
+          "settings": {
+            "collection": "personal-fitness"
+          }
+        },
+        "image_hPNFmw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/weight-860625_1280.jpg"
+          }
+        },
+        "product_myBzBa": {
+          "type": "product",
+          "settings": {
+            "product": "padel-racquet",
+            "second_image": false
+          }
+        }
+      },
+      "block_order": [
+        "collection_DQ8aQE",
+        "image_hPNFmw",
+        "product_myBzBa"
+      ],
+      "settings": {
+        "heading": "Catagory",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "column",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_WCYQqJ": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=PGZiixvXK4g&pp=ygUVc3BvcnRzIGVxaXBtZW50IHZpZGVv",
+        "cover_image": "shopify:\/\/shop_images\/arm-back-muscles.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_di6kGU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_TmbbJT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/fast-delivery_9561692.png",
+            "title": "<strong>Fast Delivery<\/strong>",
+            "text": "<p>We Deliver in 24 hours<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PBWw9B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/59556-O9TD0M-65.jpg",
+            "title": "<strong>Authentic Product<\/strong>",
+            "text": "<p>We deliver the best original products<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Cg8ABr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/customer-support_2951105.png",
+            "title": "<strong>24x7 live support<\/strong>",
+            "text": "<p>We are available to assist you. Just click the icon to live chat<\/p>",
+            "link_label": "Chat Now",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_TmbbJT",
+        "column_PBWw9B",
+        "column_Cg8ABr"
+      ],
+      "settings": {
+        "title": "<strong>Why You should choose Us<\/strong>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "rich_text_UFB3Ci",
+    "featured_collection",
+    "collage_3xJPTR",
+    "video_WCYQqJ",
+    "multicolumn_di6kGU"
+  ]
+}
