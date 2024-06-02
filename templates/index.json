@@ -55,23 +55,11 @@
           "settings": {
             "text": "<p>A One-Stop Online Shop For Sports Lover<\/p>"
           }
-        },
-        "button_C79yhi": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "heading_CNwRXj",
-        "text_RwJWXG",
-        "button_C79yhi"
+        "text_RwJWXG"
       ],
       "settings": {
         "desktop_content_position": "center",
